@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structure.iml" filepath="$PROJECT_DIR$/.idea/Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Modeling/Object Modeling.iml" filepath="$PROJECT_DIR$/Object Modeling/Object Modeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms/Sorting Algorithms.iml" filepath="$PROJECT_DIR$/Sorting Algorithms/Sorting Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" filepath="$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" />
     </modules>
   </component>
 </project>
